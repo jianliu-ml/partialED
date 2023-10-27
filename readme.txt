@@ -9,3 +9,5 @@ We develop a model that treats ED as a trigger localization problem (similar to 
 3. Run `mrc_evaluation.py` for evaluation a particular model.
 
 We also provide code for the model SeqBERT for training, which has a similar training steps.
+
+`partial_labeled_data.zip` contains the unlabelled event instances.
